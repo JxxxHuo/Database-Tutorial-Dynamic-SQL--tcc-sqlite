@@ -1,0 +1,4 @@
+Z:\Database course\othersource\sqlite\sqlite_for_VC\VCtry2\Debug\VCtry.exe
+Z:\Database course\othersource\sqlite\sqlite_for_VC\VCtry2\Debug\VCtry.pdb
+Z:\Database course\web\2021\lab\VCtry2\Debug\VCtry.exe
+Z:\Database course\web\2021\lab\VCtry2\Debug\VCtry.pdb

@@ -1,0 +1,7 @@
+you can use Visual studio 6, or other versions higher than it to start
+wait a while
+it is loading
+
+if you use VC6, this error may not happen
+
+now you can modify the source code to finish the lab

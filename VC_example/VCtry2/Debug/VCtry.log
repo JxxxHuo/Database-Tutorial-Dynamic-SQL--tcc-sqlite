@@ -1,0 +1,5 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  VCtry.cpp
+  LINK : program database Z:\Database course\web\2021\lab\VCtry2\Debug\VCtry.pdb missing; performing full link
+VCtry.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  VCtry.vcxproj -> Z:\Database course\web\2021\lab\VCtry2\.\Debug\VCtry.exe
