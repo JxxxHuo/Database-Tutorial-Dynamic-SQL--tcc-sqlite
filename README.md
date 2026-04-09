@@ -10,7 +10,7 @@ There is no need to install any extra software if you do not have compilers. The
 
 The introduction about sqlite API for C is in [An Introduction To The SQLite C/C++ Interface](https://www.sqlite.org/cintro.html)
 
-In dos_tools folder, the example code like select.c,create.c,insert.c in dos_tools folder show how to execute sql in C.
+In ==dos_tools== folder, the example code like select.c,create.c,insert.c in dos_tools folder show how to execute sql in C.
 
 To see the query result in dos windows simply type in command:
 
@@ -18,7 +18,7 @@ To see the query result in dos windows simply type in command:
 C:\lab>tcc.exe sqlite3.dll -run select.c
 ```
 
-In dos_tcc_web folder, you can use a simple dos command 
+In ==dos_tcc_web== folder, you can use a simple dos command 
 ```
 tcc sqlite3.dll ws2_32.dll -lws2_32 -run sqlite_device_server2.c electrical_devices.db 
 ```
