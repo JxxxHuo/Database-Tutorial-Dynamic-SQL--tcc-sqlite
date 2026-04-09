@@ -18,4 +18,11 @@ To see the query result in dos windows simply type in command:
 C:\lab>tcc.exe sqlite3.dll -run select.c
 ```
 
+In dos_tcc_web folder, you can use a simple dos command 
+'''
+tcc sqlite3.dll ws2_32.dll -lws2_32 -run sqlite_device_server2.c electrical_devices.db 
+'''
+to get a database web server and see database tables in web brower.
+
+
 
